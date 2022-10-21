@@ -126,4 +126,5 @@ predict(w1,w2,test)
 ![op2](https://user-images.githubusercontent.com/95342910/197106439-df9e7731-9897-44a4-9b75-3f76e879efeb.png)
 
 **RESULT**
+
 Thus, a program involving python to implement a perceptron for Implementation of MLP for non linearly separable problem is developed and executted successfully.
