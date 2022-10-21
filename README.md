@@ -39,7 +39,7 @@ Step 3: Repeat the  iteration  until the losses become constant and
              (v)   Append the losses in a list
 Step 4 : Test for the XOR patterns.
 
-** PROGRAM** 
+**PROGRAM** 
 ~~~
 Developed By :GURU PRASAD.B
 
